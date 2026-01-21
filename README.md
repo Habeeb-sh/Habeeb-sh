@@ -3,6 +3,7 @@
 **`Backend-leaning Full-Stack Software Engineer (Junior)`**
 
 Software Engineering student with hands-on experience building full-stack web applications, with a strong focus on backend development. Experienced in designing RESTful APIs, working with relational databases, and applying software testing practices.
+
 ---
 
 ### 🧰 Languages and Tools
